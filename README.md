@@ -1,4 +1,4 @@
 # firstproject-demo
 this is my  first Git repository.
 <br>
-Author - Titan Hazra ()
+Author - Titan Hazra (software engineer)
